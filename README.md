@@ -1,4 +1,13 @@
-## Process demonstration
+# Packages? NPM? PNPM?
+
+Voici une petite présentation/démo de l'utilité du package manager NPM. 
+
+Un PDF est présent pour une introduction. 
+
+Les instruction ci-dessous servent à suivre la démo. 
+
+
+## Comment installer des packages
 
 Pour installer des packages (bouts codes/modules/bibliothèque) on a besoin des éléments suivants:
 
