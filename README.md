@@ -11,7 +11,7 @@ Les instruction ci-dessous servent à suivre la démo.
 
 Pour installer des packages (bouts codes/modules/bibliothèque) on a besoin des éléments suivants:
 
-- Un répertoire pour public / récupérer des packages
+- Un répertoire pour publier / récupérer des packages
 - un CLI (interface de ligne de commande) pour installer et désinstaller des packages: votre terminal fera l'affaire
 - un registre: c'est la base de données d'NPM contenant les packages
 - une version de Node.js (runtime javascript) installée sur notre machine
